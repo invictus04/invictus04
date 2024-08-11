@@ -1,13 +1,15 @@
 <h1 align="center">Hi EveryOne 👋, I'm Rajvardhan Singh</h1>
-<h3 align="center">I am a dedicated B.Tech student specializing in Computer Science, actively seeking opportunities to apply and expand my expertise in various programming languages, including Java, C, Python, Kotlin, and Dart.</h3>
+<h3 align="center">Driven software developer from India, passionate about tech and continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invictus04&label=Profile%20views&color=0e75b6&style=flat" alt="invictus04" /> </p>
 
-- 🌱 I’m currently learning **Spring boot, dart, Machine-learning**
+- 🌱 I’m currently learning **Java, python,Spring boot, flutter, kotlin**
 
-- 👯 I’m looking to collaborate on **Spring Boot, Java, and Android projects. Let's connect and create impactful software together!**
+- 🤝 I'm Seeking opportunities to collaborate on **Spring Boot, Java, and Android development. Excited to create innovative software together!**
 
 - 📫 How to reach me **rajvardhan0511@gmail.com**
+
+- ⚡Fun fact **When I’m not coding, you’ll find me exploring new tech gadgets or teaching myself random programming languages for fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
