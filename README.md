@@ -1,5 +1,5 @@
 <h1 align="center">Hi EveryOne 👋, I'm Rajvardhan Singh</h1>
-<h3 align="center">I am a dedicated B.Tech student specializing in Computer Science, actively seeking internship opportunities to apply and expand my expertise in various programming languages, including Java, C, Python, Kotlin, and Dart.</h3>
+<h3 align="center">I am a dedicated B.Tech student specializing in Computer Science, actively seeking opportunities to apply and expand my expertise in various programming languages, including Java, C, Python, Kotlin, and Dart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invictus04&label=Profile%20views&color=0e75b6&style=flat" alt="invictus04" /> </p>
 
