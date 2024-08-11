@@ -1,11 +1,11 @@
 <h1 align="center">Hi EveryOne 👋, I'm Rajvardhan Singh</h1>
-<h3 align="center">I am a dedicated B.Tech student specializing in Computer Science, actively seeking internship opportunities to apply and expand my expertise in various programming languages, including Java, C, Python, Kotlin, and Dart. My academic journey has provided me with a strong foundation in Data Structures and Algorithms, equipping me to tackle complex challenges effectively.</h3>
+<h3 align="center">I am a dedicated B.Tech student specializing in Computer Science, actively seeking internship opportunities to apply and expand my expertise in various programming languages, including Java, C, Python, Kotlin, and Dart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invictus04&label=Profile%20views&color=0e75b6&style=flat" alt="invictus04" /> </p>
 
 - 🌱 I’m currently learning **Spring boot, dart, Machine-learning**
 
-- 👯 I’m looking to collaborate on **Spring Boot, Java, and Android projects. With a strong foundation in these technologies, I am eager to work on innovative solutions that leverage my skills in backend development, mobile app creation, and cloud integration. Whether it's building robust APIs, crafting user-friendly mobile applications, or implementing scalable cloud services, I am excited to contribute to and learn from dynamic projects and teams. Let's connect and create impactful software together!**
+- 👯 I’m looking to collaborate on **Spring Boot, Java, and Android projects. Let's connect and create impactful software together!**
 
 - 📫 How to reach me **rajvardhan0511@gmail.com**
 
