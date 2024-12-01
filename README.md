@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invictus04&label=Profile%20views&color=0e75b6&style=flat" alt="invictus04" /> </p>
 
-- 🌱 I’m currently learning **Java, python,Spring boot, flutter, kotlin**
+- 🌱 I’m currently learning **Docker, MicroServies, Kubernetes**
 
 - 🤝 I'm Seeking opportunities to collaborate on **Spring Boot, Java, and Android development. Excited to create innovative software together!**
 
