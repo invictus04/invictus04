@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 🤝 I'm Seeking opportunities to collaborate on **Spring Boot, Java, and Android development. Excited to create innovative software together!**
+- 🤝 I'm Seeking opportunities to collaborate on **Spring Boot, Java, and Android Projects. Excited to create innovative software together!**
 
 - 📫 How to reach me **rajvardhan0511@gmail.com**
 
